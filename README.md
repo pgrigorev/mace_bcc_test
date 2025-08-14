@@ -1,4 +1,4 @@
-This repository contains the data and the scripts to produce plots for section A.13 of [A foundation model for atomistic materials chemistry](https://arxiv.org/abs/2401.00096) preprint. The naming conventions for prentrained models follows the [mace-foundations](https://github.com/ACEsuit/mace-foundations) repository. Follow the link to download the model files as well.
+This repository contains the data and the scripts to produce plots for section A.13 of [A foundation model for atomistic materials chemistry](https://arxiv.org/abs/2401.00096) preprint. The naming convention for pretrained models follows the [mace-foundations](https://github.com/ACEsuit/mace-foundations) repository. Follow the link to download the model files as well.
 
 The notebooks contain the codes to produce the plots for two versions of the preprint. The folders are structured as follows:
 - `data` folder contains the reference dft data with finetuning data and finetuned model in `A13_ft`  subfolder.
