@@ -1,0 +1,1 @@
+Finetuning data contains isolated atom configuration with energy -4.5711108 eV. The data is saved with `dft_` prefix as `dft_energy` and `dft_forces`.
