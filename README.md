@@ -8,3 +8,9 @@ The notebooks contain the codes to produce the plots for two versions of the pre
 - `scripts`: helper scripts to produce the  (are imported in the notebooks)
 
 We are currently working on a public version of the workflow used to run the tests. If you would like to have an access to the workflow or test tour model please feel free to [contact Petr Grigorev](mailto:petr.y.grigorev@gmail.com).
+
+Dependencies are included in `pyproject.toml`, and can be installed with [uv](https://docs.astral.sh/uv/) using
+
+```python
+uv sync
+```
