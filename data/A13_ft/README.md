@@ -1,1 +1,2 @@
-Finetuning data contains isolated atom configuration with energy -4.5711108 eV. The data is saved with `dft_` prefix as `dft_energy` and `dft_forces`.
+Finetuning data contains 142 W configurations containing deformed perfect BCC and
+FCC structures, vacancy in BBC and Molecular Dynamics snapshots for BCC as well as isolated atom configuration with energy -4.5711108 eV. The data is saved with `dft_` prefix as `dft_energy` and `dft_forces`.
