@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "ase>=3.26.0",
     "matplotlib>=3.10.5",
+    "matscipy>=1.1.0",
     "notebook>=7.4.5",
     "numpy>=2.3.2",
     "pandas>=2.3.1",
